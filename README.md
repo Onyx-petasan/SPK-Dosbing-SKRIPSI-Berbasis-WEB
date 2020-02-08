@@ -1,1 +1,1 @@
-Sistem pendukung keputusan menentukan dosen pembimbing skripsi berbasis web
+# Sistem Pendukung Keputusan Menentukan Dosen Pembimbing SKRIPSI Berbasis Web
